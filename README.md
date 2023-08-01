@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nicole-Lamb
-- 👀 I’m interested in Game Development!
+- 👀 I’m interested in Game Development & Coding!
 - 🌱 I’m currently learning programming fundamentals.
 - 💞️ I’m looking to collaborate when I'm more experienced
 - 📫 How to reach me nm_lamb@hotmail.com
